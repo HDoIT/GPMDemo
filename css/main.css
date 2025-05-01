@@ -836,6 +836,7 @@ footer::before {
     .footer-container {
         grid-template-columns: 1fr;
         gap: 2rem;
+        padding: 20px;
     }
     
     .footer-column {
